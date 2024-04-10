@@ -1,2 +1,2 @@
 # Python_Automation
-solution of book "Python Automation~"
+solution of the book "Python Automation~"
